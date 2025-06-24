@@ -1,4 +1,4 @@
-# Medica-template-Angular
+# Medica-Angular
 # 🏥 Medical Image Services on AWS
 
 A serverless, cost-efficient, and secure image processing system for a medical services website. This solution enables dynamic image transformation using AWS services like S3, Lambda, EC2, IAM, CloudFront, and more, delivering scalable and optimized media content for web and mobile applications.
